@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
-<h3 align="center">AI/ML Engineer | Software Developer | Problem Solver | Visual Thinker</h3>
+<h3 align="center">AI/ML Engineer | Data Scientist | Problem Solver | Visual Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer+from+IIT+Jodhpur;Lifelong+learner+%7C+Visual+Thinker;Passionate+about+Tech+%26+Deep+Systems&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Passionate+about+ML+%26+DL;Lifelong+learner+%7C+Visual+Thinker&center=true&width=500&height=40" />
 </p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dheeraj024&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj024" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dheeraj024" alt="dheeraj024" />
-  </a> 
-</p>
+
 
 ---
 
@@ -76,18 +72,25 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dheeraj024&show_icons=true&theme=react&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dheeraj024&theme=react" />
 </p>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj024&layout=compact&theme=react" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dheeraj024&theme=flat&margin-w=10&margin-h=10&row=1&column=6" alt="dheeraj024 trophies" />
+  </a>
+</p>
+
 
 ---
 
 ### 📫 Contact Me
 
 - 🌐 LinkedIn: [linkedin.com/in/dheerajkumariiitj](https://linkedin.com/in/dheeraj024)
--  Email: dheerajk1511@gmail.com
+- 📧 Email: dheerajk1511@gmail.com
 - 🧠 Personal Motto: *"See it. Understand it. Master it."*
 
 ---
 
-<!-- Profile README merged and enhanced by ChatGPT. -->
