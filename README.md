@@ -16,8 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech in Electrical Engineering** from IIT Jodhpur  
-- 🎓 **M.Tech in Artificial Intelligence & Machine Learning**  
-- 🚀 Building next-gen solutions for **Maritime Search and Rescue (SAR)**  
+- 🎓 **M.Tech in Artificial Intelligence & Machine Learning**   
 - 💡 Passionate about **deep tech**, **embedded systems**, **AI**, and **clean architecture**
 - 📍 Focused on **visual learning**, **step-by-step problem solving**, and **in-depth exploration**
 - 🌱 I’m currently learning **GenAI**
@@ -29,12 +28,12 @@
 
 | Domain | Technologies |
 |--------|--------------|
-| **Languages** | Python, C++, JavaScript, TypeScript |
+| **Languages** | Python, SQL |
 | **Web Dev** | React.js (Vite), Flask, FastAPI, Django |
-| **Database** | MongoDB (PyMongo), PostgreSQL |
-| **ML/DL** | PyTorch, TensorFlow, Scikit-learn, OpenCV |
-| **Tools** | VSCode, Postman, Git, Docker |
-| **Others** | OpenCV, Web Scraping, GeoMap APIs, GNSS Systems |
+| **Database** | MySQL, MongoDB (PyMongo), PostgreSQL |
+| **ML/DL** | LangChain, HuggingFace, PyTorch, Scikit-learn, OpenCV, Matplotlib, Pandas, Numpy, NLTK |
+| **Tools** | VSCode, Postman, Git |
+| **Others** | Streamlit, HTML, CSS, JavaScript |
 
 ---
 
