@@ -87,7 +87,7 @@
 
 ### 📫 Contact Me
 
-- 🌐 LinkedIn: [[linkedin.com/in/dheerajdk024/)](https://linkedin.com/in/dheeraj024)
+🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/dheerajdk024/)
 - 📧 Email: dheerajk1511@gmail.com
 - 🧠 Personal Motto: *"See it. Understand it. Master it."*
 
