@@ -89,7 +89,7 @@
 
 - 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/dheerajdk024/)
 - 📧 Email: dheerajk1511@gmail.com
-- 📄 [Download My Resume (PDF)](http://bit.ly/43N19lR)
+- 📄 [Download My Resume (PDF)](http://bit.ly/3HD8uvE)
 - 🧠 Personal Motto: *"See it. Understand it. Master it."*
 
 ---
