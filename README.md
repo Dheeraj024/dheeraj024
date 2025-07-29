@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech in Electrical Engineering** from IIT Jodhpur  
-- 🎓 **M.Tech in Artificial Intelligence & Machine Learning**   
+- 🎓 **M.Tech in Geoinformatics(Artificial Intelligence & Machine Learning**) from IIT Bombay   
 - 💡 Passionate about **deep tech**, **embedded systems**, **AI**, and **clean architecture**
 - 📍 Focused on **visual learning**, **step-by-step problem solving**, and **in-depth exploration**
 - 🌱 I’m currently learning **GenAI**
